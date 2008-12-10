@@ -1,0 +1,24 @@
+- unless ie?
+  !!! XML
+!!! Strict
+%html{html_attrs('en-US')}
+  %head
+    %meta{:"http-equiv" => "content-type", :content => "text/html;charset=UTF-8"}
+
+    %title Template
+
+    / begin:stylesheets
+    = stylesheet_link_tag 'common'
+    / end:stylesheets
+
+    /[if lt IE 8]
+      = javascript_include_tag "http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" , :cache => false
+  %body{:class => "#{yield :body_class}" }
+    #canvas
+      = yield
+
+    = javascript_include_tag :all, :cache => false
+    :javascript
+      document.observe("dom:loaded",function(ev){
+        #{yield  :onReady}
+      });

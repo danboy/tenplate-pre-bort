@@ -1,0 +1,43 @@
+Script started on Wed 10 Dec 2008 03:48:24 PM CST
+]0;dan@oscar: ~/Projects/template/wwwdan@oscar:~/Projects/template/www$ touch tmp/restart.txtcd Projects/SkillRazor/www/sudo /etc/init.d/apache2 restart[5Pcd Projects/SkillRazor/www/[6Ptouch tmp/restart.txt[Ktouch tmp/restart.txtcd Projects/SkillRazor/www/sudo /etc/init.d/apache2 restartpassenger-install-apache2-module[11Pgem install passenger[5Phamlrails[1Pruby ./setup.rb ls[Ksudo ./setup.rb [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kscript/generate
+Usage: script/generate generator [options] [args]
+Rails Info:
+    -v, --version                    Show the Rails version number and quit.
+    -h, --help                       Show this help message and quit.
+General Options:
+    -p, --pretend                    Run but do not make any changes.
+    -f, --force                      Overwrite files that already exist.
+    -s, --skip                       Skip files that already exist.
+    -q, --quiet                      Suppress normal output.
+    -t, --backtrace                  Debugging: show backtrace on errors.
+    -c, --svn                        Modify files with subversion. (Note: svn must be in path)
+    -g, --git                        Modify files with git. (Note: git must be in path)
+
+
+Installed Generators
+  Rubygems: cucumber, feature
+  Builtin: controller, integration_test, mailer, migration, model, observer, performance_test, plugin, resource, scaffold, session_migration
+
+More are available at http://wiki.rubyonrails.org/rails/pages/AvailableGenerators
+  1. Download, for example, login_generator.zip
+  2. Unzip to directory /home/dan/.rails/generators/login
+     to use the generator with all your Rails apps
+     or to /home/dan/Projects/template/www/lib/generators/login
+     to use with this app only.
+  3. Run generate with no arguments for usage information
+       script/generate login
+
+Generator gems are also available:
+  1. gem search -r generator
+  2. gem install login_generator
+  3. script/generate login
+
+]0;dan@oscar: ~/Projects/template/wwwdan@oscar:~/Projects/template/www$ sudo gem install rspec
+[sudo] password for dan: 
+Successfully installed rspec-1.1.11
+1 gem installed
+Installing ri documentation for rspec-1.1.11...
+Installing RDoc documentation for rspec-1.1.11...
+]0;dan@oscar: ~/Projects/template/wwwdan@oscar:~/Projects/template/www$ sudo gem install rspec[7Pcript/generatetouch tmp/restart.txtcd Projects/SkillRazor/www/sudo /etc/init.d/apache2 restartpassenger-install-apache2-module[11Pgem install passenger[5Phamlrails[1Pruby ./setup.rb ls[Ksudo ./setup.rb [2@chmod +x [C[C[C[C[C[C[C[C[C[2Psudo ./[C[C[C[C[C[C[C[C[Cls[Kcd rubygems-1.3.1/ls[Ksudo ./setup.rb [2@chmod +x [C[C[C[C[C[C[C[C[C[2Psudo ./[C[C[C[C[C[C[C[C[Cls[Ksudo ruby ./setup.rb gem install rails[1Phamlpassengerpassenger-install-apache2-module[5P/etc/init.d/apache2 restart[5Pcd Projects/SkillRazor/www/[6Ptouch tmp/restart.txt[6Pscript/generateudo gem install rspec[Kscript/generate rspec_scaffold Guide
+Couldn't find 'rspec_scaffold' generator
+]0;dan@oscar: ~/Projects/template/wwwdan@oscar:~/Projects/template/www$ script/generate rspec_scaffold Guide[
