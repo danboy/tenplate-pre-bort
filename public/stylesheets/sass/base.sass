@@ -82,11 +82,18 @@ body
     :background #333
     :color #EEE
     :width 50em
-    :margin 2em
+    :font-size 1.4em
+    :margin= (!line_height/1.4em)-.1em 0
     :display block
+    :white-space pre-wrap;       /* css-3 */
+    :white-space -moz-pre-wrap  /* Mozilla, since 1999 */
+    :white-space -pre-wrap      /* Opera 4-6 */
+    :white-space -o-pre-wrap    /* Opera 7 */
+    :word-wrap break-word       /* Internet Explorer 5.5+ */
     code
       :margin 0
       :padding 0
+      :display inline-block
   #canvas
     :width 94em
     :margin 0 auto

@@ -835,3 +835,618 @@ Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:37:21) [GET]
 Rendering template within layouts/application
 Rendering guides/index
 Completed in 12ms (View: 8, DB: 1) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:44:07) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:49:06) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 26ms (View: 21, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:49:47) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:50:33) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:50:42) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:51:37) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:51:53) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 24ms (View: 20, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:52:36) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:52:43) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 21ms (View: 18, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:54:51) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:55:11) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:55:18) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:55:32) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 10ms (View: 4, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:57:58) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:08:44) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 33ms (View: 30, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:09:30) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:10:49) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:11:30) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 3ms (View: 3, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:12:02) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 17ms (View: 7, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:12:22) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 36ms (View: 28, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:16:21) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:17:39) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:17:48) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 26ms (View: 15, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:21:49) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:22:15) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:22:25) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+
+
+ActionView::TemplateError (compile error
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected '<'
+...ush_text("    ");haml_temp = <h1>Page Heading</h1>;
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected tCONSTANT, expecting kDO or '{' or '('
+...);haml_temp = <h1>Page Heading</h1>;
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:50: unknown regexp option - h
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:50: unmatched (: /h1>;
+haml_temp = _hamlout.push_script(haml_temp, true, false, false, false, false);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_hamlout.push_text("    <h2>Section heading</
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:50: syntax error, unexpected tINTEGER, expecting kEND
+...t("    <h2>Section heading</h2>&#x000A;&#x000A;<h3>Paragraph...
+                              ^) on line #33 of app/views/guides/index.html.haml:
+30:       List item two
+31:   %pre.example
+32:     %code
+33:       ~<h1>Page Heading</h1>
+34:       :preserve
+35:         <h2>Section heading</h2>
+36: 
+
+    /home/dan/Projects/template/www/app/views/guides/index.html.haml:53:in `compile!'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:66:in `compile'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:64:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:64:in `compile'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:26:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:73:in `render_template'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:256:in `render_without_haml'
+    /usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/haml/helpers/action_view_mods.rb:14:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:367:in `_render_with_layout'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:254:in `render_without_haml'
+    /usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/haml/helpers/action_view_mods.rb:14:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1174:in `render_for_file'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:905:in `render_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `custom'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `call'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `each'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:107:in `respond_to'
+    /home/dan/Projects/template/www/app/controllers/guides_controller.rb:5:in `index'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `passenger_orig_perform_action'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `passenger_orig_perform_action'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/request_handler.rb:53:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `sass_old_process'
+    /usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/sass/plugin/rails.rb:19:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/request_handler.rb:38:in `process_request'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_request_handler.rb:165:in `main_loop'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:321:in `start_request_handler'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:282:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:163:in `safe_fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:161:in `fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:161:in `safe_fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:280:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:163:in `safe_fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:161:in `fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:161:in `safe_fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:279:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `__send__'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `main_loop'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:168:in `start_synchronously'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:135:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:112:in `fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:112:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:179:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/framework_spawner.rb:270:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/framework_spawner.rb:263:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/framework_spawner.rb:263:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `__send__'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `main_loop'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:168:in `start_synchronously'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:135:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:112:in `fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:112:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/framework_spawner.rb:87:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:218:in `spawn_rails_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:213:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:122:in `spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:247:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `__send__'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `main_loop'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:168:in `start_synchronously'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/bin/passenger-spawn-server:46
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:23:01) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 25ms (View: 16, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:25:19) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:25:55) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 24ms (View: 21, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:26:13) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:26:25) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:26:33) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+
+
+ActionView::TemplateError (compile error
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected '<'
+...sh_text("    ");haml_temp =  <h1>Page Heading</h1>\n<h2>Sect...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected tCONSTANT, expecting kDO or '{' or '('
+...;haml_temp =  <h1>Page Heading</h1>\n<h2>Section heading</h2...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: unknown regexp option - h
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected tINTEGER, expecting kEND
+...</h1>\n<h2>Section heading</h2>\n<h3>Paragraph heading</h3>\...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected tIDENTIFIER, expecting kDO or '{' or '('
+...ng</h2>\n<h3>Paragraph heading</h3>\n<p>\nParagraph... dis a...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: unknown regexp option - p
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected $undefined
+...as elementum et luctus.\n</p>\n<ul>\n<li>\nList item one\n</...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected $undefined
+...mentum et luctus.\n</p>\n<ul>\n<li>\nList item one\n</li>\n<...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected $undefined
+... et luctus.\n</p>\n<ul>\n<li>\nList item one\n</li>\n<li>\nL...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected $undefined, expecting kEND
+...p>\n<ul>\n<li>\nList item one\n</li>\n<li>\nList item two\n<...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: unknown regexp option - l
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected $undefined
+...>\n<li>\nList item two\n</li>\n</ul>;
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:35: unknown regexp options - cd
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:35: unmatched (: /ul>;
+haml_temp = _hamlout.push_script(haml_temp, true, false, false, false, false);
+_hamlout.push_text("  </
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:35: syntax error, unexpected '<'
+_hamlout.push_text("  </code></pre>\n</div>\n", false, -2);@...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:35: unknown regexp options - dv
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:35: syntax error, unexpected $undefined
+...text("  </code></pre>\n</div>\n", false, -2);@haml_buffer = ...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:35: unterminated string meets end of file
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:35: syntax error, unexpected $end, expecting kEND) on line #33 of app/views/guides/index.html.haml:
+30:       List item two
+31:   %pre.example
+32:     %code
+33:       ~ <h1>Page Heading</h1>\n<h2>Section heading</h2>\n<h3>Paragraph heading</h3>\n<p>\nParagraph... dis amet porttitor semper nisi imperdiet pulvinar in suspendisse enim, cras magna. Vehicula parturient semper maecenas aliquam pellentesque fringilla. Taciti vulputate dapibus proin sit ipsum ultricies dapibus pellentesque phasellus. Phasellus. Interdum malesuada pede per gravida a, ullamcorper nam, cras elementum et luctus.\n</p>\n<ul>\n<li>\nList item one\n</li>\n<li>\nList item two\n</li>\n</ul>
+
+    /home/dan/Projects/template/www/app/views/guides/index.html.haml:35:in `compile!'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:66:in `compile'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:64:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:64:in `compile'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:26:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:73:in `render_template'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:256:in `render_without_haml'
+    /usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/haml/helpers/action_view_mods.rb:14:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:367:in `_render_with_layout'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:254:in `render_without_haml'
+    /usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/haml/helpers/action_view_mods.rb:14:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1174:in `render_for_file'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:905:in `render_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `custom'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `call'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `each'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:107:in `respond_to'
+    /home/dan/Projects/template/www/app/controllers/guides_controller.rb:5:in `index'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `passenger_orig_perform_action'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `passenger_orig_perform_action'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/request_handler.rb:53:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `sass_old_process'
+    /usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/sass/plugin/rails.rb:19:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/request_handler.rb:38:in `process_request'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_request_handler.rb:165:in `main_loop'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:321:in `start_request_handler'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:282:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:163:in `safe_fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:161:in `fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:161:in `safe_fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:280:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:163:in `safe_fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:161:in `fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:161:in `safe_fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:279:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `__send__'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `main_loop'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:168:in `start_synchronously'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:135:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:112:in `fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:112:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:179:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/framework_spawner.rb:270:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/framework_spawner.rb:263:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/framework_spawner.rb:263:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `__send__'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `main_loop'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:168:in `start_synchronously'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:135:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:112:in `fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:112:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/framework_spawner.rb:87:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:218:in `spawn_rails_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:213:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:122:in `spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:247:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `__send__'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `main_loop'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:168:in `start_synchronously'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/bin/passenger-spawn-server:46
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:26:54) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+
+
+ActionView::TemplateError (compile error
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected tCONSTANT, expecting kDO or '{' or '('
+...haml_temp = h <h1>Page Heading</h1>\n<h2>Section heading</h2...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: unknown regexp option - h
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected tINTEGER, expecting kEND
+...</h1>\n<h2>Section heading</h2>\n<h3>Paragraph heading</h3>\...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected tIDENTIFIER, expecting kDO or '{' or '('
+...ng</h2>\n<h3>Paragraph heading</h3>\n<p>\nParagraph... dis a...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: unknown regexp option - p
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected $undefined
+...as elementum et luctus.\n</p>\n<ul>\n<li>\nList item one\n</...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected $undefined
+...mentum et luctus.\n</p>\n<ul>\n<li>\nList item one\n</li>\n<...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected $undefined
+... et luctus.\n</p>\n<ul>\n<li>\nList item one\n</li>\n<li>\nL...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected $undefined, expecting kEND
+...p>\n<ul>\n<li>\nList item one\n</li>\n<li>\nList item two\n<...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: unknown regexp option - l
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:33: syntax error, unexpected $undefined
+...>\n<li>\nList item two\n</li>\n</ul>;
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:35: unknown regexp options - cd
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:35: unmatched (: /ul>;
+haml_temp = _hamlout.push_script(haml_temp, false, false, false, false, false);
+_hamlout.push_text("  </
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:35: syntax error, unexpected '<'
+_hamlout.push_text("  </code></pre>\n</div>\n", false, -2);@...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:35: unknown regexp options - dv
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:35: syntax error, unexpected $undefined
+...text("  </code></pre>\n</div>\n", false, -2);@haml_buffer = ...
+                              ^
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:35: unterminated string meets end of file
+/home/dan/Projects/template/www/app/views/guides/index.html.haml:35: syntax error, unexpected $end, expecting kEND) on line #33 of app/views/guides/index.html.haml:
+30:       List item two
+31:   %pre.example
+32:     %code
+33:       =h <h1>Page Heading</h1>\n<h2>Section heading</h2>\n<h3>Paragraph heading</h3>\n<p>\nParagraph... dis amet porttitor semper nisi imperdiet pulvinar in suspendisse enim, cras magna. Vehicula parturient semper maecenas aliquam pellentesque fringilla. Taciti vulputate dapibus proin sit ipsum ultricies dapibus pellentesque phasellus. Phasellus. Interdum malesuada pede per gravida a, ullamcorper nam, cras elementum et luctus.\n</p>\n<ul>\n<li>\nList item one\n</li>\n<li>\nList item two\n</li>\n</ul>
+
+    /home/dan/Projects/template/www/app/views/guides/index.html.haml:35:in `compile!'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:66:in `compile'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:64:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:64:in `compile'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:26:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:73:in `render_template'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:256:in `render_without_haml'
+    /usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/haml/helpers/action_view_mods.rb:14:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:367:in `_render_with_layout'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:254:in `render_without_haml'
+    /usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/haml/helpers/action_view_mods.rb:14:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1174:in `render_for_file'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:905:in `render_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `custom'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `call'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `each'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:107:in `respond_to'
+    /home/dan/Projects/template/www/app/controllers/guides_controller.rb:5:in `index'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `passenger_orig_perform_action'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `passenger_orig_perform_action'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/request_handler.rb:53:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `sass_old_process'
+    /usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/sass/plugin/rails.rb:19:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/request_handler.rb:38:in `process_request'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_request_handler.rb:165:in `main_loop'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:321:in `start_request_handler'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:282:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:163:in `safe_fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:161:in `fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:161:in `safe_fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:280:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:163:in `safe_fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:161:in `fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/utils.rb:161:in `safe_fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:279:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `__send__'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `main_loop'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:168:in `start_synchronously'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:135:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:112:in `fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:112:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/application_spawner.rb:179:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/framework_spawner.rb:270:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/framework_spawner.rb:263:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/framework_spawner.rb:263:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `__send__'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `main_loop'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:168:in `start_synchronously'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:135:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:112:in `fork'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:112:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/railz/framework_spawner.rb:87:in `start'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:218:in `spawn_rails_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:213:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:122:in `spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/spawn_manager.rb:247:in `handle_spawn_application'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `__send__'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:317:in `main_loop'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/lib/passenger/abstract_server.rb:168:in `start_synchronously'
+    /usr/lib/ruby/gems/1.8/gems/passenger-2.0.5/bin/passenger-spawn-server:46
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:27:11) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 23ms (View: 19, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 16:27:57) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://template/guides/]

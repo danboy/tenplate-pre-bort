@@ -78,11 +78,18 @@ body {
     background: #333;
     color: #EEE;
     width: 50em;
-    margin: 2em;
-    display: block; }
+    font-size: 1.4em;
+    margin: 1.18571428571429em 0;
+    display: block;
+    white-space: pre-wrap;       /* css-3 */;
+    white-space: -moz-pre-wrap  /* Mozilla, since 1999 */;
+    white-space: -pre-wrap      /* Opera 4-6 */;
+    white-space: -o-pre-wrap    /* Opera 7 */;
+    word-wrap: break-word       /* Internet Explorer 5.5+ */; }
     body pre.example code {
       margin: 0;
-      padding: 0; }
+      padding: 0;
+      display: inline-block; }
   body #canvas {
     width: 94em;
     margin: 0 auto; }
