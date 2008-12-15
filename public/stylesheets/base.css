@@ -52,26 +52,27 @@ a:hover {
 body {
   font-size: 62.5%;
   color: #333333;
-  font-family: helvetica,arial,sans-serif; }
+  font-family: helvetica,arial,sans-serif;
+  line-height: 1.8em; }
   body h1,
   body h2,
   body h3 {
     font-weight: bold; }
   body h1 {
     font-size: 2em;
-    margin-bottom: 1em; }
+    margin-bottom: 0.9em; }
   body h2 {
     font-size: 1.8em;
-    margin-bottom: 1.11111111111111em; }
+    margin-bottom: 1em; }
   body h3 {
     font-size: 1.6em;
-    margin-bottom: -1.25em; }
+    margin-bottom: -1.125em; }
   body p,
   body ul,
   body ol {
     display: block;
     font-size: 1.4em;
-    margin: 1.42857142857143em 0; }
+    margin: 1.28571428571429em 0; }
   body pre.example {
     border: 1px solid #900;
     background: #333;

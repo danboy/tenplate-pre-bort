@@ -799,3 +799,39 @@ Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:33:46) [GET]
 Rendering template within layouts/application
 Rendering guides/index
 Completed in 27ms (View: 16, DB: 1) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:35:25) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:36:28) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 3ms (View: 3, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:36:32) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:36:40) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 35ms (View: 31, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:37:13) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://template/guides/]
+
+
+Processing GuidesController#index (for 127.0.0.1 at 2008-12-15 15:37:21) [GET]
+Rendering template within layouts/application
+Rendering guides/index
+Completed in 12ms (View: 8, DB: 1) | 200 OK [http://template/guides/]
