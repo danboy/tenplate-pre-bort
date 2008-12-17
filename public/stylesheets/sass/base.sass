@@ -3,6 +3,7 @@
 !page_color ||= #FFF
 !link_color ||= #369
 !line_height ||= 1.8em
+!grid_width ||= 96em
 
 html
   :color= !font_color
@@ -60,7 +61,8 @@ body
   :line-height= !line_height
   h1,
   h2,
-  h3
+  h3,
+  h4
     :font-weight bold
   h1
     :font-size 2em
@@ -71,6 +73,10 @@ body
   h3
     :font-size 1.6em
     :margin-bottom= -(!line_height/1.6em)
+  h4
+    :font-size 1.4em
+    :margin-top= !line_height/1.4em
+    :margin-bottom= -(!line_height/1.4em)
   p,
   ul,
   ol
@@ -81,7 +87,6 @@ body
     :border 1px solid #900
     :background #333
     :color #EEE
-    :width 50em
     :font-size 1.4em
     :margin= (!line_height/1.4em)-.1em 0
     :display block
@@ -95,7 +100,7 @@ body
       :padding 0
       :display inline-block
   #canvas
-    :width 94em
+    :width= !grid_width
     :margin 0 auto
 
 @import forms.sass
