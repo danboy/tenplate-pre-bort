@@ -1,4 +1,4 @@
-.main
+.two_thirds.left
   %h1 Style Guide
   %h2 Forms
   %form
@@ -36,11 +36,43 @@
       = label :credit_card_expiration, 'Expiration'
       .multi_select
         = date_select(:credit_card_expiration, :start_year => Time.now.year, :end_year => Time.now.year + 15, :use_month_numbers => true, :discard_day => true, :include_blank => false, :order => [:month, :year])
+.one_third.right
+  %h2 Forms
+  %form
+    %div
+      %label Label
+      %input{:type => "text"}
+    %div
+      %label Address
+      %input{:type => "text"}
+      %input{:type => "text"}
+    %div
+      %label Label
+      %input{:type => "text"}
+    %ul
+      %li
+        %input{:type => "checkbox"}
+        %label Checkbox one
+      %li
+        %input{:type => "checkbox"}
+        %label Checkbox Two
+    %fieldset
+      %div
+        %label Nested label
+        %input{:type => "text"}
+      %div
+        %label textarea
+        %textarea
+    %div
+      %label textarea
+      %textarea
+    %div
+      = label :credit_card_expiration, 'Card type'
+      = select( "payment", "id", { "Visa" => "1", "Mastercard" => "2"})
+    %div
+      = label :credit_card_expiration, 'Expiration'
+      .multi_select
+        = date_select(:credit_card_expiration, :start_year => Time.now.year, :end_year => Time.now.year + 15, :use_month_numbers => true, :discard_day => true, :include_blank => false, :order => [:month, :year])
 
-.rail
-  %ul.nav_tree
-    %li.first First
-    %li Second
-  %h1 Heading one
-  %h2 Heading two
-  %p Lorem ipsum ut urna enim nibh aliquam felis diam vivamus porttitor. Consectetuer pretium. Pede a orci etiam nunc sapien, aliquet convallis urna.
+-content_for :body_class do
+  thirds

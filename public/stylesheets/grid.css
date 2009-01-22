@@ -1,25 +1,24 @@
 /*
-Sass::SyntaxError: Undefined constant: "!link_color".
-on line 74 of /home/dan/Projects/tenplate/public/stylesheets/sass/forms.sass
+Sass::SyntaxError: Undefined constant: "!grid_width".
+on line 4 of /home/dan/Projects/tenplate/public/stylesheets/sass/grid.sass
 
-70:   :width 60%
-71:   :height 4em
-72:   &:focus
-73:     :background #FFF
-74:     :border-color= !link_color
-75: 
-76: select
-77:   :margin 0 0 0 30%
-78: 
-79: ul
-80:   li
+1: body.one_column
+2:   #canvas
+3:     .column
+4:       :width= !grid_width -4em
+5:       :padding 2em
+6: 
+7: body.two_column
+8:   #canvas
+9:     .column
+10:       :width= (!grid_width/2) -4em
 
 
 Backtrace:
-/home/dan/Projects/tenplate/public/stylesheets/sass/forms.sass:74
+/home/dan/Projects/tenplate/public/stylesheets/sass/grid.sass:4
 /usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/sass/constant.rb:209:in `get_constant'
 /usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/sass/constant.rb:192:in `operationalize'
-/usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/sass/constant.rb:182:in `operationalize'
+/usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/sass/constant.rb:197:in `operationalize'
 /usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/sass/constant.rb:45:in `parse'
 /usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/sass/engine.rb:329:in `parse_attribute'
 /usr/lib/ruby/gems/1.8/gems/haml-2.0.5/lib/sass/engine.rb:282:in `parse_line'
@@ -66,4 +65,4 @@ script/server:3
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Sass::SyntaxError: Undefined constant: \"!link_color\".\A on line 74 of /home/dan/Projects/tenplate/public/stylesheets/sass/forms.sass\A \A 70:   :width 60%\A 71:   :height 4em\A 72:   &:focus\A 73:     :background #FFF\A 74:     :border-color= !link_color\A 75: \A 76: select\A 77:   :margin 0 0 0 30%\A 78: \A 79: ul\A 80:   li\A "; }
+  content: "Sass::SyntaxError: Undefined constant: \"!grid_width\".\A on line 4 of /home/dan/Projects/tenplate/public/stylesheets/sass/grid.sass\A \A 1: body.one_column\A 2:   #canvas\A 3:     .column\A 4:       :width= !grid_width -4em\A 5:       :padding 2em\A 6: \A 7: body.two_column\A 8:   #canvas\A 9:     .column\A 10:       :width= (!grid_width/2) -4em\A "; }
